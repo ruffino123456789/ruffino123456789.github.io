@@ -1,0 +1,17 @@
+<!Doctype html>
+<html>
+<head><meta charset="utf-8">
+<title> CONTACTO </title>
+</head>
+<body>
+
+<h1> Manuel Seoane Paz </h1>
+<img alt="cociña"
+src="fotodef.jpg"
+width="1500"
+height="750" />
+
+
+<h1> <a href="Competition_3_Manuel_Seoane.html"> CONTACTO </a> </h1>
+</body>
+</html>
